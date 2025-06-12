@@ -20,6 +20,8 @@
     "multer": "^2.0.1",
     "nodemon": "^3.1.10",
     "stripe": "^18.2.1",
-    "svix": "file:1.42.0@clerk/express"
+    "svix": "^0.89.0",
+    "@clerk/express": "^1.42.0"
+
   }
 }
