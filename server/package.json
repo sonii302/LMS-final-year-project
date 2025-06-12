@@ -21,7 +21,6 @@
     "nodemon": "^3.1.10",
     "stripe": "^18.2.1",
     "svix": "^0.89.0",
-    "@clerk/express": "^1.42.0"
-
+    "@clerk/express": "^4.17.3"
   }
 }
